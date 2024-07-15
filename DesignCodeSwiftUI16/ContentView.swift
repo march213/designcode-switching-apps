@@ -97,5 +97,5 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
-        .background(Image("Wallpaper 2"))
+        .background(Image("Wallpaper 4"))
 }
